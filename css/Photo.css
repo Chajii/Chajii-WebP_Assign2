@@ -1,0 +1,17 @@
+body {
+  font-family:"Jeju Gothic", "Open Sans", Helvetica,'Malgun Gothic','Apple SD Gothic Neo', Arial, sans-serif;
+  font-weight: bold;
+  color:black;
+  margin: 15% 100px;
+  padding:0 20px;
+  background-image: url(../imgs/book.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+h1{
+  font-variant: small-caps;
+}
+
+table{
+  margin: 0 auto;
+}
